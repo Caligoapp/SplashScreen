@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="logoDescription">Логотип</string>
+    <string name="MyTextSlogan" translatable="false">ЭТО ГЛАВНЫЙ ЭКРАН ПРИЛОЖЕНИЯ</string>
+</resources>
